@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Mochiy+Pop+P+One&display=swap');
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Luckiest Guy';
+    color: ivory;
+    font-size: 24px;
+    justify-content: center;   
+}
+
+title{
+    padding: 40px 0;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    overflow: hidden;
+    font-size: 300px;
+}
+
+.title .letter {
+    display: inline-block;
+    line-height: 1em;
+}
+
+.main-nav {
+  position: relative; 
+}
+.main-nav {
+  background-color: '#6C88C4';
+  color: ivory;
+  height: 50px;
+  z-index: 150;
+  margin-bottom: 320px;
+}
+
+.navbar-brand{
+    font-size:35px;
+}
+
+.nav-item{
+    font-size:30px;
+}
+
+.navbar-nav {
+    margin-right: auto;
+}
+
+.navbar-text{
+    margin-left: auto;
+}
+
+.title2{
+    font-family: 'Mochiy Pop P One';
+    color: rgb(255, 208, 0);
+    font-size: 50px;
+}
+
+.title3{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.title4{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.page-footer{
+    font-size: 15px;
+}
+
+.a:hover {
+    filter: grayscale(100%);
+}
+
+.square {
+    height: 380px;
+    width: 380px;
+    background-color: rgb(21, 170, 16);
+    border-radius: 25px;
+}
+
+.ysquiz {
+    font-family: 'Mochiy Pop P One';
+    background-color: #003dadc9;
+    border-radius: 5px;
+    margin: 0 auto;
+    max-width: 500px!important
+  }
+  .ysquiz .ysquiz-header h1 {
+    margin: 0;
+    text-align: center
+  }
+  .ysquiz .ysquiz-content .ysquiz-question ul {
+    padding: 0;
+    list-style: none
+  }
+  .ysquiz .ysquiz-content .ysquiz-question ul li {
+    padding: 1px 0
+  }
+  .ysquiz .ysquiz-content .ysquiz-question button {
+    border: none;
+    padding: 10px 20px;
+    background-color: teal;
+    color: rgb(0, 0, 0);
+    opacity: .5;
+    transition-duration: .3s;
+    border-radius: 3px
+  }
+  .ysquiz .ysquiz-content .ysquiz-question button:hover {
+    opacity: 1
+  }
+  .ysquiz .ysquiz-content .ysquiz-result {
+    text-align: center
+  }
+  .ysquiz .ysquiz-content .ysquiz-result p {
+    color: #fff;
+  }
+  .ysquiz .ysquiz-content .ysquiz-result .ysquiz-total-question {
+    background-color: #343a40
+  }
+  .ysquiz .ysquiz-content .ysquiz-result .ysquiz-total-correct {
+    background-color: #28a745
+  }
+  .ysquiz .ysquiz-content .ysquiz-result .ysquiz-total-wrong {
+    background-color: #dc3545
+  }
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
